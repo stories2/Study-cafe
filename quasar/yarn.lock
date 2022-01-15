@@ -4956,6 +4956,13 @@ qs@6.9.6:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.6.tgz#26ed3c8243a431b2924aca84cc90471f35d5a0ee"
   integrity sha512-TIRk4aqYLNoJUbd+g2lEdz5kLWIuTMRagAXxl78Q0RiVjAOugHmeKNGdd3cwo/ktpf9aL9epCfFqWDEKysUlLQ==
 
+quasar-app-extension-ide-helper@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/quasar-app-extension-ide-helper/-/quasar-app-extension-ide-helper-1.0.0.tgz#597647b9602739e99f8aefde8f487eddcb772762"
+  integrity sha512-N5iwCnBQCiNeVLN3IbcaIQAFaTouZdSsUp2xsDSHVzW3P++B2HasuLUykVFCFW6NlmLdvLLH7qFeGS6/2iSCAg==
+  dependencies:
+    xml-escape "^1.1.0"
+
 quasar@^2.0.0:
   version "2.4.9"
   resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.4.9.tgz#81b8efdf442474038a7eff2a8735863ddf86b443"
@@ -6111,6 +6118,11 @@ ws@^8.1.0:
   version "8.4.2"
   resolved "https://registry.yarnpkg.com/ws/-/ws-8.4.2.tgz#18e749868d8439f2268368829042894b6907aa0b"
   integrity sha512-Kbk4Nxyq7/ZWqr/tarI9yIt/+iNNFOjBXEWgTb4ydaNHBNGgvf2QHbS9fdfsndfjFlFwEd4Al+mw83YkaD10ZA==
+
+xml-escape@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/xml-escape/-/xml-escape-1.1.0.tgz#3904c143fa8eb3a0030ec646d2902a2f1b706c44"
+  integrity sha1-OQTBQ/qOs6ADDsZG0pAqLxtwbEQ=
 
 yallist@^4.0.0:
   version "4.0.0"
