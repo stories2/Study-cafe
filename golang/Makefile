@@ -10,3 +10,5 @@ build-run: build run
 
 docker-run:
 	docker run --rm gostudy ./main.out
+
+docker-build-run: docker docker-run
